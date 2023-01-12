@@ -33,7 +33,7 @@ Find 👉 [Barsha](https://bio.link/thebarshablog)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=thebarshablog&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thebarshablog&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brunogroth&layout=compact&langs_count=7&theme=dracula)<br/>
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thebarshablog&layout=compact&langs_count=7&theme=dracula)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thebarshablog&theme=radical&no-frame=false&no-bg=true&margin-w=4)
