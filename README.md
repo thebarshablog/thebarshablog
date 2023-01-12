@@ -4,9 +4,11 @@
 
 🎓 I'm a 2nd-Year CSE UG. 
 
-👩‍💼 Founder, The CookieButton Project.
+👩‍💼 Founder, [The CookieButton Project.](https://github.com/The-CookieButton-Project)
 
-💼 Co-organizer, KubeHuddle Toronto 2023.
+💼 Co-organizer, [KubeHuddle Toronto 2023.](https://kubehuddle.com/2023/)
+
+🧢 Simultaneously driving growth at [Evmux](https://evmux.com/), [Pesto](https://www.pesto.tech/), [XTag](https://www.xtag.com/) and [ScoutFlo](https://scoutflo.com/).
 
 Serving as a Developer Advocate Engineer at a COSS Marketplace aggregator startup and contributing as a 🥑DevRel and community manager to numerous open-source organizations, Web3 startups and corporate houses.
 
@@ -18,7 +20,7 @@ Fun-fact: I'm a proficient personnel in all areas of business and industry-compe
 
 Note: I too am skilled in technical documentation, copywriting, videography,360 degree focused content creation!
 
-Find all my social links here 👉 https://bio.link/thebarshablog
+Find 👉 [Barsha](https://bio.link/thebarshablog)
 
 
 ## 🌐 Socials:
