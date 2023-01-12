@@ -22,7 +22,7 @@ Fun-fact: I'm a proficient personnel in all areas of business and industry-compe
 
 Note: I too am skilled in technical documentation, copywriting, videography,360 degree focused content creation!
 
-Message me HERE 👉 [Write](https://github.com/thebarshablog/Message-me/issues/new)
+Direct Message me on GitHub 👉 [Write Your Message](https://github.com/thebarshablog/DM-People-Here/issues/new)
 
 
 ## 🌐 Socials:
