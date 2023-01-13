@@ -37,9 +37,7 @@ Direct Message me on GitHub 👉 [Write Your Message](https://github.com/thebars
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thebarshablog&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
-
 ![](https://komarev.com/ghpvc/?username=thebarshablog&style=flat-square)
 
   ## 💰 You can help me by Donating
