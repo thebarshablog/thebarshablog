@@ -12,7 +12,7 @@
 
 🧢 I'll happily begin to drive growth at [Evmux](https://evmux.com/), [Pesto](https://www.pesto.tech/), [XTag](https://www.xtag.com/) and [ScoutFlo](https://scoutflo.com/) after February 15 (credits to semester exams 😂).
 
-Serving as a Developer Advocate Engineer at a COSS Marketplace aggregator startup and contributing as a 🥑DevRel and community manager to numerous open-source organizations, Web3 startups and corporate houses.
+Previously, I've served as a 🥑Developer Advocate Engineer at a bunch of startups and contributed extensively in the division of product and community management to numerous open-source organizations, startups, corporate houses and conventional businesses. 
 
 Connect with me for a mutual and community-based learning journey across domains covering Full-stack Development of 🖥️ Web &📱Mobile Application, ⚙️DevOps, ☁️Cloud Computing with a special interest in cloud-native technologies,🕸️Cybersecurity and 📊Data Science!
 
