@@ -6,7 +6,7 @@
 
 👩‍💼 Founder, [The CookieButton Project.](https://github.com/The-CookieButton-Project)
 
-💼 Co-organizer, [KubeHuddle Toronto 2023.](https://kubehuddle.com/2023/)
+💼 Co-organizer, [KubeHuddle Toronto 2023.](https://kubehuddle.com/2023/toronto/)
 
 ☁️ Co-organizer, [Cloud Native Computing Foundation (CNCF) Kolkata.](https://community.cncf.io/kolkata/)
 
