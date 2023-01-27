@@ -26,6 +26,8 @@ Note: I too am skilled in technical documentation, copywriting, videography,360 
 
 Direct Message me on GitHub 👉 [Write Your Message](https://github.com/thebarshablog/DM-People-Here/issues/new)
 
+Please Note: Incase you'd like to schedule a 1:1 call to discuss work/tech/education/mentorship, please do so after February 15.
+
 ## 🎥 Check out the PRIVATE LAUNCH of TheBarshaBlog <> The CookieButton :
 • [TheBarshaBlog <> TheCookieButtonProject](https://drive.google.com/file/d/1B0z6Q8vr1cfbPrCwBDM2yCBvBEI-hl8I/view?usp=share_link)
 
