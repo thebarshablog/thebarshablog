@@ -49,7 +49,7 @@ Direct Message me on GitHub 👉 [Write Your Message](https://github.com/thebars
 ---
 ![](https://komarev.com/ghpvc/?username=thebarshablog&style=flat-square)
 
-  ![Snake animation](https://github.com/thebarshablog/thebarshablog/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thebarshablog/thebarshablog/blob/output/github-contribution-grid-snake.svg)
 
   ## 💰 You can help me by Donating:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/thebarshablog) 
