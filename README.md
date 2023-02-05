@@ -16,7 +16,7 @@
 
 Previously, I've served as a 🥑Developer Advocate Engineer at a bunch of startups and contributed extensively in the division of product and community management to numerous open-source organizations, startups, corporate houses and conventional businesses. 
 
-Connect with me for a mutual and community-based learning journey across domains covering Full-stack Development of 🖥️ Web &📱Mobile Application, ⚙️DevOps, ☁️Cloud Computing with a special interest in cloud-native technologies,🕸️Domain-specific SecuriTY,📊 Data Science & AI and Blockchain Developement!
+Connect with me for a mutual and community-based learning journey across domains covering Full-stack Development of 🖥️ Web &📱Mobile Application, ⚙️DevOps, ☁️Cloud Computing with a special interest in cloud-native technologies,🕸️Domain-specific Security,📊 Data Science & AI and Blockchain Developement!
 
 On a side-note, I keep up with the dynamic news concerning metaverse, AR/VR and growing advancements of AI in our daily-lives.
 
