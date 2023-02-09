@@ -6,7 +6,7 @@
 
 🎓 I'm a 2nd-Year CSE UG at [West Bengal University of Technology](https://makautwb.ac.in/)
 
-👩‍💼 Founder, [The CookieButton Project.](https://github.com/The-CookieButton-Project) : Open-Source Organization.
+👩‍💼 Founder, [The CookieButton Project.](https://github.com/The-CookieButton-Project)
 
 💼 Co-organizer, [KubeHuddle Toronto 2023.](https://kubehuddle.com/2023/toronto/)
 
