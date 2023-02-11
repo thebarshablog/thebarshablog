@@ -30,6 +30,7 @@ Direct Message me on GitHub 👉 [Write Your Message](https://github.com/thebars
 
 ### 📺 Latest Videos: 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How Am I Paving My Path During College? ft. @codecodecode845](https://ytcards.demolab.com/?id=4LE2iT15fiE&title=How+Am+I+Paving+My+Path+During+College%3F+ft.+%40codecodecode845&lang=en&timestamp=1676134633&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "How Am I Paving My Path During College? ft. @codecodecode845")](https://www.youtube.com/watch?v=4LE2iT15fiE)
 <!-- END YOUTUBE-CARDS -->
 
 
