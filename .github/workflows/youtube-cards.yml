@@ -9,6 +9,6 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - uses: thebarshablog/github-readme-youtube-cards@main
         with:
           channel_id: UCNTA-kDhvz0LSGpx9-K0cpA
