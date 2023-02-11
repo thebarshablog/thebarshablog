@@ -30,7 +30,7 @@ Direct Message me on GitHub 👉 [Write Your Message](https://github.com/thebars
 
 ### 📺 Latest Videos: 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![How Successful Companies Launched their First MVP](https://ytcards.demolab.com/?id=jpQJ8aOThNY&title=How+Successful+Companies+Launched+their+First+MVP&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "How Successful Companies Launched their First MVP")](https://www.youtube.com/watch?v=jpQJ8aOThNY)
+<!-- END YOUTUBE-CARDS -->
 
 
 ## 🌐 Socials:
