@@ -12,9 +12,9 @@
 
 ☁️ Co-organizer, [Cloud Native Computing Foundation (CNCF) Kolkata.](https://community.cncf.io/kolkata/)
 
-🧢 I serve as a Developer Evangelist at [Evmux](https://evmux.com/) and drive product management at [Pesto](https://www.pesto.tech/), [XTag](https://www.xtag.com/) and [ScoutFlo](https://scoutflo.com/), simultaneously. 
+🧢 I'm a Developer Advocate at [Evmux](https://evmux.com/) and drive product management at [Pesto](https://www.pesto.tech/), [XTag](https://www.xtag.com/) and [ScoutFlo](https://scoutflo.com/), simultaneously. 
 
-💫I got accepted to the **Microsoft Learn Student Ambassador Program** on January 18, 2023! [Click here](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/013b814c-8cba-4c88-af0e-593cd0857338) to check my profile!
+I'm also the Cheif Product Manager at OWASP ZAP!
 
 Previously, I've served as a 🥑Developer Advocate Engineer at a bunch of startups and contributed extensively in the division of product and community management to numerous open-source organizations, startups, corporate houses and conventional businesses. 
 
