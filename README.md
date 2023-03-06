@@ -4,7 +4,7 @@
 
 💥First PR Merged in VLC 🎉 on February 6'23.
 
-🎓 I'm a 2nd-Year CSE UG at [West Bengal University of Technology](https://makautwb.ac.in/)
+🎓 I'm a 2nd-Year CSE UG at [West Bengal University of Technology](https://makautwb.ac.in/).
 
 👩‍💼 Founder, [The CookieButton Project.](https://github.com/The-CookieButton-Project) and Chief Host of [The CookieButton Show](youtube.com/@thebarshablog).
 
