@@ -12,7 +12,7 @@
 
 ☁️ Co-organizer, [Cloud Native Computing Foundation (CNCF) Kolkata.](https://community.cncf.io/kolkata/)
 
-🧢 I'm a Developer Advocate & UX Researcher at [Evmux](https://evmux.com/) and drive product management at [Pesto](https://www.pesto.tech/), [XTag](https://www.xtag.com/) and [ScoutFlo](https://scoutflo.com/), simultaneously. 
+🧢 I'm a Developer Advocate & UX Researcher at [Evmux](https://evmux.com/) and drive product management at [XTag](https://www.xtag.com/) and [ScoutFlo](https://scoutflo.com/), simultaneously. 
 
 📦 I'm also the Chief Product Manager at [OWASP ZAP](https://owasp.org/www-project-zap/)!
 
