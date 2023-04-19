@@ -14,8 +14,6 @@
 
 🧢 I'm a Developer Advocate & UX Researcher at [Evmux](https://evmux.com/) and drive product management at [XTag](https://www.xtag.com/) and [ScoutFlo](https://scoutflo.com/), simultaneously. 
 
-📦 I'm also the Chief Product Manager at [OWASP ZAP](https://owasp.org/www-project-zap/)!
-
 Previously, I've served as a 🥑Developer Advocate Engineer at a bunch of startups and contributed extensively in the division of product and community management to numerous open-source organizations, startups, corporate houses and conventional businesses. 
 
 Connect with me for a mutual and community-based learning journey across domains covering Full-stack Development of 🖥️ Web &📱Mobile Application, ⚙️DevOps, ☁️Cloud Computing with a special interest in cloud-native technologies,🕸️Domain-specific Security,📊 Data Science & AI and Blockchain Developement!
