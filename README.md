@@ -6,7 +6,7 @@
 
 🎓 I'm a 2nd-Year CSE UG at [West Bengal University of Technology](https://makautwb.ac.in/).
 
-👩‍💼 Founder, [The CookieButton Network](https://github.com/The-CookieButton-Project) and Chief Host of [The CookieButton Show](youtube.com/@thebarshablog).
+👩‍💼 Podcast Host of [The CookieButton Show](youtube.com/@thebarshablog).
 
 💼 Co-organizer, [KubeHuddle Toronto 2023.](https://kubehuddle.com/2023/toronto/)
 
