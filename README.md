@@ -12,9 +12,9 @@
 
 ☁️ Co-organizer, [Cloud Native Computing Foundation (CNCF) Kolkata.](https://community.cncf.io/kolkata/)
 
-🧢 I'm a Developer Advocate & UX Researcher at [Evmux](https://evmux.com/), simultaneously. 
+🤹 I'm a Developer Advocate at [Evmux](https://evmux.com/), 🎭 Head of Business Development at [Dotshm | Naming Service on Shardeum](https://dotshm.me/) and Associate of Community at [Pesto](https://www.pesto.tech/)🌻. 
 
-Previously, I've served as a 🥑Developer Advocate Engineer at a bunch of startups and contributed extensively in the division of product and community management to numerous open-source organizations, startups, corporate houses and conventional businesses. 
+Previously, I've served as a 🥑Developer Advocate Engineer and as a Product-Manager at a bunch of startups and contributed extensively in the division of product and community management to numerous open-source organizations, startups, corporate houses and conventional businesses. 
 
 Connect with me for a mutual and community-based learning journey across domains covering Full-stack Development of 🖥️ Web &📱Mobile Application, ⚙️DevOps, ☁️Cloud Computing with a special interest in cloud-native technologies,🕸️Domain-specific Security,📊 Data Science & AI and Blockchain Developement!
 
