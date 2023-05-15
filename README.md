@@ -2,9 +2,7 @@
 
 ![bd_github_readme_cover_pic](https://user-images.githubusercontent.com/103309340/208305232-1d0113ed-7893-4852-904d-15c2f029a15f.jpg)
 
-💥First PR Merged in VLC 🎉 on February 6'23.
-
-🎓 I'm a 2nd-Year CSE UG at [West Bengal University of Technology](https://makautwb.ac.in/).
+🎓 I'm a CS Sophomore at [West Bengal University of Technology](https://makautwb.ac.in/).
 
 👩‍💼 Podcast Host of [The CookieButton Show](youtube.com/@thebarshablog).
 
