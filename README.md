@@ -10,7 +10,7 @@
 
 ☁️ Co-organizer, [Cloud Native Computing Foundation (CNCF) Kolkata.](https://community.cncf.io/kolkata/)
 
-🤹 I'm a Developer Advocate at [Evmux](https://evmux.com/), 🎭 Head of Business Development at [Dotshm | Naming Service on Shardeum](https://dotshm.me/) and Associate of Community at [Pesto](https://www.pesto.tech/)🌻. 
+🤹 I'm a Developer Advocate at [Evmux](https://evmux.com/), 🎭 Head of Business Development at [Dotshm | Naming Service on Shardeum](https://dotshm.me/) and Associate of Community at [Pesto](https://www.pesto.tech/)🌻, Head of Community for [Metvy](https://www.metvy.com/)🌳, Head of Product Strategy & Partnerships at [Zodor](https://www.zodor.io/) and changing reader/writer mainstream behavior at [Rozmer](https://www.linkedin.com/company/rozmer/?viewAsMember=true).
 
 Previously, I've served as a 🥑Developer Advocate Engineer and as a Product-Manager at a bunch of startups and contributed extensively in the division of product and community management to numerous open-source organizations, startups, corporate houses and conventional businesses. 
 
@@ -53,8 +53,5 @@ Direct Message me on GitHub 👉 [Write Your Message](https://github.com/thebars
 ![mlsa-new-badge-120x120 (1)](https://user-images.githubusercontent.com/103309340/213240644-f41efd97-24f9-40e9-a1e3-cc53955122d8.jpg)
 ---
 ![](https://komarev.com/ghpvc/?username=thebarshablog&style=flat-square)
-
-  ## 💰 You can help me by Donating:
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/thebarshablog) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
