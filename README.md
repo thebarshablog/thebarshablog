@@ -49,8 +49,10 @@ Direct Message me on GitHub 👉 [Write Your Message](https://github.com/thebars
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=thebarshablog&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# 📛 Microsoft Learn Student Ambassador Badges:
+# 📛 Badges I Endorse: 
 ![mlsa-new-badge-120x120 (1)](https://user-images.githubusercontent.com/103309340/213240644-f41efd97-24f9-40e9-a1e3-cc53955122d8.jpg)
+![Barsha Das](https://github.com/thebarshablog/thebarshablog/assets/103309340/8fc9af69-84d5-4c1d-b237-d61058ee8d8e)
+
 ---
 ![](https://komarev.com/ghpvc/?username=thebarshablog&style=flat-square)
 
